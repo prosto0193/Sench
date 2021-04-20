@@ -1,0 +1,259 @@
+.header{
+    margin-top: 20px;
+}
+
+.div_logo{
+    font-size: 35px;
+    width: auto;
+}
+.tit_head{
+    width: auto;
+}
+
+.tit_head a{
+    text-decoration: none;
+    color: rgba(0,0,0,.4);
+    font-size: 13px;
+}
+
+.header_ab{
+    margin-top: 20px;
+}
+
+.header_ab .col-md-auto{
+    padding: 0 8px;
+}
+.red_text{
+    color: coral;
+}
+
+.div_search{
+    margin-top: 30px;
+}
+
+.div_search .form-control{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: black;
+}
+
+.div_nav{
+    margin-top: 20px;
+    color: rgba(0,0,0,.4);
+    font-size: 12px;
+}
+
+.div_nav a{
+    color: rgba(0,0,0,.4);
+    font-size: 12px;
+}
+
+.div_search .btn-outline-success{
+    border-width: 0;
+}
+
+.title_div{
+    margin-top: 80px;
+}
+
+.title_div h1{
+    font-size: 80px;
+    color: black;
+}
+
+.subtitle_div, .blog_div{
+    margin-top: 40px;
+}
+
+.subtitle_div h2{
+    color: black;
+}
+
+.date{
+    color: rgba(0,0,0,.4);
+    font-size: 14px;
+}
+
+.title_blog_div{
+    margin-top: 10px;
+    color: black;
+    font-size: 18px;
+}
+
+.title_text_blog_div{
+    margin-top: 10px;
+    color: black;
+    font-size: 14px;
+}
+
+.subt_div_1{
+    padding: 5px;
+    width: max-content;
+    position: relative;
+    top: -480px;
+    left: 20px;
+    background: rgb(218, 213, 213);
+}
+
+.subt_div_2{
+    padding: 5px;
+    width: max-content;
+    position: relative;
+    top: -514px;
+    left: 150px;
+    background: rgb(218, 213, 213);
+}
+
+.subt_div_3{
+    padding: 5px;
+    width: max-content;
+    position: relative;
+    top: -548px;
+    left: 250px;
+    background: rgb(218, 213, 213);
+}
+
+.subt_div_3 a{
+    font-size: 14px;
+    color: black;
+    text-decoration: black;
+}
+
+.subt_div_2 a{
+    font-size: 14px;
+    color: black;
+    text-decoration: black;
+}
+
+.subt_div_1 a{
+    font-size: 14px;
+    color: black;
+    text-decoration: black;
+}
+
+.cont_blog .col-lg-4{
+    padding-bottom: 50px;
+}
+
+.cont_blog .img{
+    background-size: cover;
+    max-width: 21rem;
+    min-height: 20.5rem;
+    padding: .75rem .6875rem;
+    position: relative;
+    background-position: 50%;
+}
+
+.col_news_1 .img{
+    background: url(https://sport-marafon.ru/upload/resize_cache/iblock/2f0/9000_350_1/0315-001.jpg) no-repeat center;
+}
+
+.col_news_2 .img{
+    background: url(https://sport-marafon.ru/upload/resize_cache/iblock/6be/9000_350_1/1402-001.jpg) no-repeat center;
+}
+
+.col_news_3 .img{
+    background: url(https://sport-marafon.ru/upload/resize_cache/iblock/e72/9000_350_1/1403-001.jpg) no-repeat center;
+}
+
+.col_news_4 .img{
+    background: url(https://sport-marafon.ru/upload/resize_cache/iblock/9f4/9000_350_1/1314-001.jpg) no-repeat center;
+}
+
+.col_news_5 .img{
+    background: url(https://sport-marafon.ru/upload/resize_cache/iblock/4dd/9000_350_1/0217-001.jpg) no-repeat center;
+}
+
+.text_bl{
+    padding-top: 10px;
+}
+
+.img_tag_1{
+    font-size: 12px;
+    padding: 5px;
+    width: max-content;
+    position: relative;
+    top: -4px;
+    left: 0px;
+    background: rgb(218, 213, 213);
+}
+
+.img_tag_2{
+    font-size: 12px;
+    padding: 5px;
+    width: max-content;
+    position: relative;
+    top: -32px;
+    left: 110px;
+    background: rgb(218, 213, 213);
+}
+
+.img_tag_3{
+    font-size: 12px;
+    padding: 5px;
+    width: max-content;
+    position: relative;
+    top: -60px;
+    left: 200px;
+    background: rgb(218, 213, 213);
+}
+
+.svyaz{
+    margin-top: 50px;
+}
+
+.col_svyaz{
+    text-align: center;
+}
+
+.col_svyaz a{
+    color: black;
+    font-size: 22px;
+}
+
+.col_svyaz_text{
+    text-align: left;
+    padding: 10px 60px;
+    color: rgba(0,0,0,.4);
+    font-size: 16px;
+}
+
+.footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.title_footer hr{
+    color: blueviolet;
+    height: 3px;
+}
+
+.soob{
+    text-align: center;
+}
+
+.soob a{
+    color: rgba(0,0,0,.4);
+    font-size: 16px; 
+}
+
+.kont{
+    text-align: center;
+}
+
+.kont a{
+    color: rgba(0,0,0,.4);
+    font-size: 16px; 
+}
+
+.text_footer_addr a{
+    color: black;
+}
+
+.text_footer_time{
+    color: rgba(0,0,0,.4);
+    font-size: 13px; 
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
